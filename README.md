@@ -1,27 +1,7 @@
-# foco
+# StudyFocus
 
-foco is a customizable pomodoro timer that works on desktop & mobile browser. The aim of this app is to help you focus on any task you are working on, such as study, writing, or coding. This app is inspired by Pomodoro Technique which is a time management method developed by Francesco Cirillo.
+The Pomodoro Timer is a simple productivity tool that helps you manage your time with the Pomodoro Technique. Designed to boost your focus and efficiency, this timer breaks your work into intervals, traditionally 25 minutes in length, separated by short breaks. Each work period is called a "Pomodoro". With user-friendly interface, the Pomodoro Timer lets you track your sessions effortlessly, encouraging you to concentrate on tasks without burnout. Whether you’re tackling a complex project or chipping away at daily chores, the Pomodoro Timer is your ally in making the most out of your time!
 
-`Checkout Live Website`
-
--   https://pri1311.github.io/foco/
-
-`Features`
-
--   [x] Customizable time intervals to suit user preferences.
--   [x] Add random motivational quote to home page
--   [x] Audio notifications.
--   [ ] Add tasks/todos with priority.
--   [ ] Show Pomodoro history and stats.
--   [ ] Enable email login to access data across different devices.
--   [ ] Provide color themes to switch moods between work time and rest time and for better user experience.
-
-`Tech Stack`
-
--   ReactJs
--   NodeJs
--   ExpressJs
--   MongoDB
 
 # Getting Started with Create React App
 
